@@ -1,18 +1,17 @@
-# VPN IP Equatorial Guinea — Dr VPN
+# VPN IP Equatorial Guinea — Fast, Secure VPN for Equatorial Guinea
 
-**VPN IP Equatorial Guinea** is a fast, secure and free VPN for Android. Get a **Equatorial Guinea IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Equatorial Guinea** is a free, open-source, ad-free VPN app for Android, built for users in Equatorial Guinea. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Equatorial Guinea (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_gq_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-equatorial-guinea/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Equatorial Guinea IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Equatorial Guinea, Equatorial Guinea VPN, VPN IP Equatorial Guinea, Equatorial Guinea IP address, free VPN Equatorial Guinea, buy VPN Equatorial Guinea, fast VPN Equatorial Guinea, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Equatorial Guinea, free VPN Equatorial Guinea, fast VPN, VPN IP Equatorial Guinea, Android VPN, unblock websites Equatorial Guinea.</sub>
